@@ -8,6 +8,8 @@
     flex-flow: row;
     justify-content: center;
     align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 #menu li {
@@ -17,12 +19,12 @@
 
 #menu li a {
     text-decoration: none;
-color: black;
+color: rgba(0, 0, 0, 0.925);
 font-size: 20px;
 }
 
 #menu li a:hover {
- color: coral;
+ color: rgb(10, 136, 6);
 }
 
 .p-30 {
@@ -34,8 +36,8 @@ font-size: 20px;
 }
 
 .wh-500{
-    width: 500px;
-    height: 500px;
+    width: 300px;
+    height: 300px;
 }
 
 .tm-social {
@@ -51,5 +53,5 @@ font-size: 20px;
 /* Estilos da página contato.html*/
 
 .ml-50{
-    margin-left: 50px;
+    margin-left: 200px;
 }
