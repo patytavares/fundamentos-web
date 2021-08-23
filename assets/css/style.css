@@ -12,6 +12,11 @@
     padding-right: 30px;
 }
 
+.align-center{
+    display: flex;
+    justify-content: center;
+}
+
 #menu li {
     display: inline;
     padding: 15px;
